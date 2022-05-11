@@ -1,7 +1,7 @@
 import { useReducer } from 'react';
 
 const pinkRGB = `rgb(236, 72, 153)`
-const redRGB = `rbg(239, 68, 68)`
+const redRGB = `rgb(239, 68, 68)`
 const greenRGB = `rgb(52, 211, 153)`
 const initialCount = { count: 0, currentColor: pinkRGB }
 
